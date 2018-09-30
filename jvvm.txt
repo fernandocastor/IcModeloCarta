@@ -13,12 +13,16 @@ https://pt.wikipedia.org/wiki/Unreal_Engine
 https://www.unrealengine.com/en-US/features
 https://saga.art.br/7-informacoes-importantes-sobre-a-unreal-engine/
 
+
+
 GNU/Linux(Coisa).
 https://pt.wikipedia.org/wiki/GNU/Linux
 https://pplware.sapo.pt/linux/top-10-distribuicoes-gnu-linux-mais-populares-em-2018/
 https://imasters.com.br/noticia/desenvolvedores-do-kernel-linux-4-12-adicionaram-mais-de-790-linhas-de-codigo-por-hora
 https://tecnoblog.net/74027/linux-numeros-20-anos/
 https://www.debian.org/releases/stable/mips/ch01s02.html.pt
+
+
 
 Spacewar, primeiro jogo eletrônico de tiro(Coisa).
 https://pt.wikipedia.org/wiki/Spacewar!
